@@ -1,9 +1,9 @@
-wordnet
-punkt_tab
-averaged_perceptron_tagger
-averaged_perceptron_tagger_eng
-punkt
-vader_lexicon
 maxent_ne_chunker
+averaged_perceptron_tagger
+punkt_tab
+vader_lexicon
+punkt
+wordnet
+averaged_perceptron_tagger_eng
 maxent_ne_chunker_tab
 words

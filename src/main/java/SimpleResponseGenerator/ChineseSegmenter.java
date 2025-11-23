@@ -1,1 +1,1 @@
-package SimpleResponseGenerator;import java.util.List;// 中文分词器接口public interface ChineseSegmenter {    List<String> segment(String text);}
+package SimpleResponseGenerator;import java.util.List;/** * 中文分词器接口 * 定义中文文本分词的标准接口，所有中文分词器实现类都需要实现此接口 */public interface ChineseSegmenter {    /**     * 对中文文本进行分词处理     *      * @param text 待分词的中文文本     * @return 分词结果列表，每个元素为一个词语     */    List<String> segment(String text);}
