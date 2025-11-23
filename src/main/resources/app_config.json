@@ -1,1 +1,1 @@
-{    "permitLogPrint": false,    "database": {      "url": "jdbc:mysql://localhost:3306/chatbot_data",      "username": "ChatBot",      "password": "123456"    }}
+{    "permitLogPrint": false,    "database": {      "url": "jdbc:mysql://localhost:3306/chatbot_data",      "username": "ChatBot",      "password": "123456"    },    "DASHSCOPE_API_KEY": "sk-19acfa28ac8a4a2583ab5a3adb11f7e2"}
