@@ -1,0 +1,1 @@
+package Data;// 双向链表节点public class DialogueNode {    public Message message;    public DialogueNode prev;    public DialogueNode next;    public DialogueNode(Message message) {        this.message = message;    }}

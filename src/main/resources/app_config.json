@@ -1,0 +1,1 @@
+{    "permitLogPrint": false,    "database": {      "url": "jdbc:mysql://localhost:3306/chatbot_data",      "username": "ChatBot",      "password": "123456"    }}

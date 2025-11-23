@@ -1,0 +1,1 @@
+package SimpleResponseGenerator;import java.util.List;// 中文分词器接口public interface ChineseSegmenter {    List<String> segment(String text);}

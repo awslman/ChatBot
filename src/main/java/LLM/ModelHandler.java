@@ -1,0 +1,1 @@
+package LLM;import io.reactivex.Flowable;public interface ModelHandler {    // 普通响应方法    String generateResponse(String userInput) throws Exception;    // 流式响应方法    Flowable<String> generateResponseStream(String userInput) throws Exception;    void addBotMessage(String fullResponse);}
